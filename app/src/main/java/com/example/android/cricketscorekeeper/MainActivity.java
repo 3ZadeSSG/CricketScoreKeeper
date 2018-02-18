@@ -272,7 +272,7 @@ public class MainActivity extends AppCompatActivity {
         displaystatus();
     }
 
-    //RESET button will reset all data to 0 and status flags to their initial state. 
+    //RESET button will reset all data to 0 and status flags to their initial state.
     private void resetall() {
         gameEnd = true;
         scoreOfTeamA = 0;
