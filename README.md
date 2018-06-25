@@ -1,7 +1,7 @@
 # CricketScoreKeeper
 # Purpose
 This Score Keeper app is designed to keep track of status which includes runs,wickets,overs of each team in game of cricket.
-This project is submited here as a part of Udacity Android Basics Course "Project: Court Counter App".
+This implements basics of single screen activity as well as nested view groups
 
 ### How to get a copy
 ```
